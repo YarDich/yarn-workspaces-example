@@ -1,4 +1,6 @@
 {
+  "npmClient": "npm",
+  "independent": true,
   "packages": [
     "packages/*"
   ],
@@ -6,5 +8,5 @@
     "registry": "https://rshb-npm.fil-it.ru"
   },
   "workspaces": true,
-  "version": "1.0.11"
+  "version": "independent"
 }
