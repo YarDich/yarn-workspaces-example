@@ -1,13 +1,13 @@
 {
   "name": "@rshb/lerna-test-server",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": "echo testing in server"
   },
   "dependencies": {
-    "@rshb/lerna-test-common": "1.0.9",
+    "@rshb/lerna-test-common": "^1.0.10",
     "graphql-yoga": "^1.14.7"
   }
 }
