@@ -1,6 +1,6 @@
 {
-  "name": "@walnut/common",
-  "version": "1.0.4",
+  "name": "@rshb/lerna-test-common",
+  "version": "1.0.6",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
