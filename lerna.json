@@ -2,6 +2,9 @@
   "packages": [
     "packages/*"
   ],
+  "publish": {
+    "registry": "https://rshb-npm.fil-it.ru"
+  },
   "workspaces": true,
   "version": "1.0.9"
 }
