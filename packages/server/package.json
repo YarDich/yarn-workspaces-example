@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "test": "echo testing in server",
-    "publish": "npm publish"
+    "publish": "npm publish || exit 0"
   },
   "dependencies": {
     "@rshb/lerna-test-common": "^1.0.11",

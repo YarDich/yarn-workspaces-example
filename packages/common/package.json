@@ -5,6 +5,6 @@
   "license": "MIT",
   "scripts": {
     "test": "echo testing in common",
-    "publish": "npm publish"
+    "publish": "npm publish || exit 0"
   }
 }
